@@ -1,0 +1,49 @@
+.footer {
+  background-color: rgb(54, 56, 62);
+  height: 200px;
+  display: inline-block;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.footer-cr {
+  color: white;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.react {
+  text-decoration: none;
+  color: white;
+}
+
+.react:hover {
+  color: grey;
+  font-size: 18px;
+}
+
+.cwd {
+  grid-column: 1/2;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: column;
+}
+
+.explore {
+  grid-column: 2/3;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: column;
+}
+
+.author {
+  grid-column: 3/4;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex-direction: column;
+}

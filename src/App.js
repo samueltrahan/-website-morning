@@ -10,6 +10,9 @@ export default function App() {
     <div>
       <NavBar />
       <Banner />
+      <Section title="Using Morning" paragraph="Hello, world!  Thank you for checking out Morning a React-starter by Cinque Web Development.  In this post we will explain how to get started using this starter." path='/morning' />
+      <Section />
+      <Section />
       <Section />
       <Footer />
     </div>
