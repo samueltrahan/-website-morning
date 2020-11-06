@@ -5,7 +5,7 @@ export default function NavBar() {
   return (
     <nav className="nav-bar">
       <div className="nav-section-1">
-      <a href="/">
+      <a href="/" className="morning-nav">
       {/* <img className="groot" alt="" src="/images/groot.png"></img> */}
       <h4 className="morning-nav">React-Starter-Morning</h4>
       </a>

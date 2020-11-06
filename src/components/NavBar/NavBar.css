@@ -21,6 +21,7 @@ align-items: center;
 
 
 .morning-nav {
+  text-decoration: none;
   color: white;
   font-size: 20px;
 }
