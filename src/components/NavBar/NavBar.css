@@ -3,6 +3,8 @@
   height: 100px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  position: relative;
+  top: 0;
 }
 
 .nav-section-1 {

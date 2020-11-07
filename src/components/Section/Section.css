@@ -20,6 +20,10 @@
   color: gold;
 }
 
+.paragraph {
+  font-size: 20px;
+}
+
 .path {
   text-decoration: none;
   color: white
