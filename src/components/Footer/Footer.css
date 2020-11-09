@@ -19,6 +19,7 @@
 .react {
   text-decoration: none;
   color: white;
+  font-weight: 800;
 }
 
 .react:hover {
@@ -48,4 +49,16 @@
   justify-content: end;
   align-items: center;
   flex-direction: column;
+}
+
+.footer-explore {
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.footer-social {
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: white;
 }
